@@ -1,0 +1,1 @@
+export const GET_USER_PROGRESS = 'SET_USER_PROGRESS';

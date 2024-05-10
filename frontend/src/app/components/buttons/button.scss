@@ -1,0 +1,29 @@
+.dfa-btn {
+  color: white;
+  border: none;
+  padding: 9px 30px;
+  cursor: pointer
+}
+
+.dfa-btn-primary {
+  background-color: #18afe6;
+}
+
+.dfa-btn-danger {
+  background-color: #f38685;
+}
+
+.disabled {
+  opacity: 50%;
+  cursor: not-allowed;
+}
+
+.yellowInput {
+  height: 40px;
+  width: 40px;
+  background: #f1c40f;
+  border: 0;
+  border-radius: 17%;
+  color:white;
+  text-align: center;
+}

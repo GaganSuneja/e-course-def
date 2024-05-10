@@ -1,0 +1,212 @@
+[
+  {
+    "question": "We can find answers through meditation.",
+    "answer": true,
+    "_id": "36"
+  },
+  {
+    "question": "The real purpose of our existence is to know ourselves and know God.",
+    "answer": true,
+    "_id": "37"
+  },
+  {
+    "question": "The true purpose of our life is to work and think.",
+    "answer": false,
+    "_id": "38"
+  },
+  {
+    "question": "A vegetarian diet helps reduce our carbon footprint.",
+    "answer": true,
+    "_id": "39"
+  },
+  {
+    "question": "There are not enough vegetarian sources of protein.",
+    "answer": false,
+    "_id": "40"
+  },
+  {
+    "question": "A vegetarian diet is more conducive to gastro-intestinal health.",
+    "answer": true,
+    "_id": "41"
+  },
+  {
+    "question": "A vegetarian diet needs more fuel than producing meat.",
+    "answer": false,
+    "_id": "42"
+  },
+  {
+    "question": "Darshan Academy is named after Sant Kirpal Singh Ji Maharaj.",
+    "answer": false,
+    "_id": "1"
+  },
+  {
+    "question": "The motto of  Darshan Academy  is : Creating Generations of Makers.",
+    "answer": false,
+    "_id": "2"
+  },
+  {
+    "question": "Darshan Academy offers holistic education for body,mind and soul.",
+    "answer": true,
+    "_id": "3"
+  },
+  {
+    "question": "Students at Darshan Academy meditate once a week.",
+    "answer": false,
+    "_id": "4"
+  },
+  {
+    "question": "Darshan Academy students learn ethical values.",
+    "answer": true,
+    "_id": "5"
+  },
+  {
+    "question": "Darshan Academy students engage in community service.",
+    "answer": true,
+    "_id": "6"
+  },
+  {
+    "question": "The main method of teaching the Spiritual Curriculum is through lectures.",
+    "answer": false,
+    "_id": "7"
+  },
+  {
+    "question": "Roti Bank is an initiative where students save money by putting it in a bank.",
+    "answer": false,
+    "_id": "8"
+  },
+  {
+    "question": "There are 19 Darshan Academies in India.",
+    "answer": false,
+    "_id": "9"
+  },
+  {
+    "question": "Sant Rajinder Singh Ji Maharaj is an IIT Delhi graduate.",
+    "answer": false,
+    "_id": "10"
+  },
+  {
+    "question": "Sant Rajinder Singh Ji Maharaj has a unique background in science and spirituality.",
+    "answer": true,
+    "_id": "11"
+  },
+  {
+    "question": "Sant Rajinder Singh Ji Maharaj makes the meditation practice simple and clear.",
+    "answer": true,
+    "_id": "12"
+  },
+  {
+    "question": "Sant Rajinder Singh Ji Maharaj is the founder chairman of Darshan Education.",
+    "answer": true,
+    "_id": "13"
+  },
+  {
+    "question": "Sant Rajinder Singh Ji Maharaj has received two honorary doctorates from Universities.",
+    "answer": false,
+    "_id": "14"
+  },
+  {
+    "question": "There are not many benefits in following a vegetarian diet.",
+    "answer": false,
+    "_id": "15"
+  },
+  {
+    "question": "People around the world are becoming more aware of the body-mind connection.",
+    "answer": true,
+    "_id": "16"
+  },
+  {
+    "question": "A plant-based diet is a compassionate diet as no living animal is cruelly killed for food.",
+    "answer": true,
+    "_id": "17"
+  },
+  {
+    "question": "One solution to the problem of water shortages is better utilization of our resources.",
+    "answer": true,
+    "_id": "18"
+  },
+  {
+    "question": "The reasons for not eating meat are not compelling.",
+    "answer": false,
+    "_id": "19"
+  },
+  {
+    "question": "Saints have talked about caring for all forms of life.",
+    "answer": true,
+    "_id": "20"
+  },
+  {
+    "question": "The topic of “Hypcrisy” is covered in the lesson on “Truthfulness”.",
+    "answer": false,
+    "_id": "21"
+  },
+  {
+    "question": "The unit “Understanding Key Principles of Spirituality” covers the topic “Personal Goal Setting”.",
+    "answer": false,
+    "_id": "22"
+  },
+  {
+    "question": "How to balance one’s physical,mental and spiritual activities in life is explored in “Personal Spiritual Development”.",
+    "answer": false,
+    "_id": "23"
+  },
+  {
+    "question": "Importance of earning livelihood honestly is taught through the topic nonviolence.",
+    "answer": false,
+    "_id": "24"
+  },
+  {
+    "question": "Gratitude is a by-product of humility.",
+    "answer": true,
+    "_id": "25"
+  },
+  {
+    "question": "The “Nonviolence” topic deals only with not hurting anyone with deeds.",
+    "answer": false,
+    "_id": "26"
+  },
+  {
+    "question": "The topic “Love for God and Love for All “ covers how to have love for people who don’t agree with us.",
+    "answer": true,
+    "_id": "27"
+  },
+  {
+    "question": "“Leadership and Spirituality” topic is not included in the high school spiritual curriculum.",
+    "answer": false,
+    "_id": "28"
+  },
+  {
+    "question": "Students learn more techniques to improve their meditations and to keep focused during meditation in the high school curriculum.",
+    "answer": true,
+    "_id": "29"
+  },
+  {
+    "question": "Team building techniques and group discussions are not included in the high school curriculum.",
+    "answer": false,
+    "_id": "30"
+  },
+  {
+    "question": "Introspection helps us develop the qualities of truthfulness  and humility.",
+    "answer": true,
+    "_id": "31"
+  },
+  {
+    "question": "The topic of Leadership and Spirituality teaches the importance of meditation in making good leaders.",
+    "answer": true,
+    "_id": "32"
+  },
+  {
+    "question": "Blaming and criticizing others are not effective conflict resolution strategies.",
+    "answer": true,
+    "_id": "33"
+  },
+  {
+    "question": "Understanding other people’s point of view is not important in Conflict Resolution.",
+    "answer": false,
+    "_id": "34"
+  },
+  {
+    "question": "Team Building and planning skills are imparted through the topic Leadership and Spirituality.",
+    "answer": true,
+    "_id": "35"
+  }
+]

@@ -1,0 +1,527 @@
+[
+  {
+    "_id": "1",
+    "chapters": {
+      "2": {
+        "rating": {
+          "1": {
+            "questions": [
+              "1"
+            ],
+            "pickCount": null
+          }
+        }
+      }
+    },
+    "moduleType": "OPEN",
+    "totalQuestions": 1
+  },
+  {
+    "_id": "2",
+    "chapters": {
+      "2": {
+        "mcqQuestion": {
+          "1": {
+            "questions": [
+              "1",
+              "2",
+              "3",
+              "4",
+              "5",
+              "44",
+              "45"
+            ],
+            "pickCount": 5
+          }
+        }
+      }
+    },
+    "moduleType": "OPEN",
+    "totalQuestions": 1
+  },
+  {
+    "_id": "3",
+    "chapters": {
+      "4": {
+        "trueFalse": {
+          "1": {
+            "questions": [
+              "1",
+              "2",
+              "3",
+              "4",
+              "5",
+              "6",
+              "7",
+              "8",
+              "9"
+            ],
+            "pickCount": 7
+          }
+        }
+      }
+    },
+    "moduleType": "CLOSED",
+    "totalQuestions": 1
+  },
+  {
+    "_id": "4",
+    "chapters": {
+      "3": {
+        "trueFalse": {
+          "1": {
+            "questions": [
+              "10",
+              "11",
+              "12",
+              "13",
+              "14",
+              "37",
+              "38",
+              "39"
+            ],
+            "pickCount": 5
+          }
+        }
+      }
+    },
+    "moduleType": "CLOSED",
+    "totalQuestions": 1
+  },
+  {
+    "_id": "5",
+    "chapters": {
+      "6": {
+        "mcqQuestion": {
+          "1": {
+            "questions": [
+              "6",
+              "7",
+              "46"
+            ],
+            "pickCount": 2
+          }
+        }
+      },
+      "7": {
+        "mcqQuestion": {
+          "1": {
+            "questions": [
+              "8",
+              "9",
+              "10",
+              "11",
+              "12"
+            ],
+            "pickCount": 4
+          }
+        }
+      }
+    },
+    "moduleType": "CLOSED",
+    "totalQuestions": 2
+  },
+  {
+    "_id": "6",
+    "chapters": {
+      "2": {
+        "mcqQuestion": {
+          "1": {
+            "questions": [
+              "13",
+              "14",
+              "47"
+            ],
+            "pickCount": 2
+          }
+        }
+      },
+      "4": {
+        "mcqQuestion": {
+          "1": {
+            "questions": [
+              "15",
+              "16",
+              "17",
+              "18",
+              "19",
+              "48"
+            ],
+            "pickCount": 4
+          }
+        }
+      }
+    },
+    "moduleType": "CLOSED",
+    "totalQuestions": 2
+  },
+  {
+    "_id": "7",
+    "chapters": {
+      "3": {
+        "trueFalse": {
+          "1": {
+            "questions": [
+              "15",
+              "16",
+              "17",
+              "18",
+              "19",
+              "20",
+              "40",
+              "41",
+              "42",
+              "43"
+            ],
+            "pickCount": 6
+          }
+        }
+      },
+      "7": {
+        "mcqQuestion": {
+          "1": {
+            "questions": [
+              "20",
+              "21",
+              "22",
+              "23",
+              "49"
+            ],
+            "pickCount": 4
+          }
+        }
+      },
+      "8": {
+        "mcqQuestion": {
+          "1": {
+            "questions": [
+              "24",
+              "25",
+              "50"
+            ],
+            "pickCount": 2
+          }
+        }
+      }
+    },
+    "moduleType": "CLOSED",
+    "totalQuestions": 3
+  },
+  {
+    "_id": "8",
+    "chapters": {
+      "2": {
+        "mcqQuestion": {
+          "1": {
+            "questions": [
+              "26",
+              "27",
+              "51"
+            ],
+            "pickCount": 2
+          }
+        }
+      },
+      "3": {
+        "mcqQuestion": {
+          "1": {
+            "questions": [
+              "28",
+              "29",
+              "52"
+            ],
+            "pickCount": 2
+          }
+        }
+      },
+      "4": {
+        "mcqQuestion": {
+          "1": {
+            "questions": [
+              "30",
+              "31",
+              "53"
+            ],
+            "pickCount": 2
+          }
+        }
+      }
+    },
+    "moduleType": "CLOSED",
+    "totalQuestions": 3
+  },
+  {
+    "_id": "9",
+    "chapters": {
+      "2": {
+        "trueFalse": {
+          "1": {
+            "questions": [
+              "21",
+              "22",
+              "23"
+            ],
+            "pickCount": 2
+          }
+        }
+      },
+      "4": {
+        "fillInBlank": {
+          "1": {
+            "questions": [
+              "22",
+              "23",
+              "24",
+              "25",
+              "26"
+            ],
+            "pickCount": 4
+          }
+        }
+      },
+      "6": {
+        "trueFalse": {
+          "1": {
+            "questions": [
+              "24",
+              "25",
+              "26",
+              "27"
+            ],
+            "pickCount": 3
+          }
+        }
+      },
+      "8": {
+        "mcqQuestion": {
+          "1": {
+            "questions": [
+              "32",
+              "33",
+              "34",
+              "35"
+            ],
+            "pickCount": 3
+          }
+        }
+      }
+    },
+    "moduleType": "CLOSED",
+    "totalQuestions": 3
+  },
+  {
+    "_id": "10",
+    "chapters": {
+      "4": {
+        "trueFalse": {
+          "1": {
+            "questions": [
+              "28",
+              "29",
+              "30",
+              "31"
+            ],
+            "pickCount": 3
+          }
+        }
+      },
+      "5": {
+        "fillInBlank": {
+          "1": {
+            "questions": [
+              "27",
+              "28",
+              "29",
+              "30",
+              "31",
+              "32",
+              "33"
+            ],
+            "pickCount": 6
+          }
+        }
+      },
+      "7": {
+        "trueFalse": {
+          "1": {
+            "questions": [
+              "32",
+              "33",
+              "34",
+              "35"
+            ],
+            "pickCount": 3
+          }
+        }
+      },
+      "8": {
+        "fillInBlank": {
+          "1": {
+            "questions": [
+              "34",
+              "35",
+              "36",
+              "37",
+              "38",
+              "39"
+            ],
+            "pickCount": 5
+          }
+        }
+      }
+    },
+    "moduleType": "CLOSED",
+    "totalQuestions": 4
+  },
+  {
+    "_id": "11",
+    "chapters": {
+      "2": {
+        "mcqQuestion": {
+          "1": {
+            "questions": [
+              "37",
+              "38",
+              "39",
+              "40"
+            ],
+            "pickCount": 3
+          }
+        }
+      }
+    },
+    "moduleType": "CLOSED",
+    "totalQuestions": 1
+  },
+  {
+    "_id": "12",
+    "chapters": {
+      "6": {
+        "fillInBlank": {
+          "1": {
+            "questions": [
+              "40",
+              "41",
+              "42",
+              "43",
+              "44",
+              "45",
+              "46",
+              "47"
+            ],
+            "pickCount": 6
+          }
+        }
+      }
+    },
+    "moduleType": "CLOSED",
+    "totalQuestions": 1
+  },
+  {
+    "_id": "13",
+    "chapters": {
+      "3": {
+        "mcqQuestion": {
+          "1": {
+            "questions": [
+              "40",
+              "41",
+              "42",
+              "43"
+            ],
+            "pickCount": 3
+          }
+        }
+      },
+      "6": {
+        "fillInBlank": {
+          "1": {
+            "questions": [
+              "48",
+              "49",
+              "50",
+              "51",
+              "52",
+              "53",
+              "54"
+            ],
+            "pickCount": 6
+          }
+        }
+      }
+    },
+    "moduleType": "CLOSED",
+    "totalQuestions": 2
+  },
+  {
+    "_id": "14",
+    "chapters": {
+      "8": {
+        "fillInBlank": {
+          "1": {
+            "questions": [
+              "55",
+              "56",
+              "57",
+              "58",
+              "59"
+            ],
+            "pickCount": 4
+          }
+        }
+      }
+    }
+  },
+  {
+    "_id": "15",
+    "chapters": {
+      "2": {
+        "fillInBlank": {
+          "1": {
+            "questions": [
+              "60",
+              "61",
+              "62"
+            ],
+            "pickCount": 3
+          }
+        }
+      },
+      "3": {
+        "fillInBlank": {
+          "1": {
+            "questions": [
+              "63",
+              "64",
+              "65",
+              "66",
+              "67",
+              "68"
+            ],
+            "pickCount": 4
+          }
+        }
+      },
+      "5": {
+        "rating": {
+          "1": {
+            "questions": [
+              "1"
+            ]
+          }
+        }
+      },
+      "6": {
+        "rating": {
+          "1": {
+            "questions": [
+              "1"
+            ]
+          }
+        }
+      }
+    },
+    "moduleType": "CLOSED",
+    "totalQuestions": 5
+  }
+]

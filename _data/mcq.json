@@ -1,0 +1,590 @@
+[
+  {
+    "_id": "44",
+    "question": "We can create a peaceful world by",
+    "options": {
+      "a": "Developing sophisticated machinery",
+      "b": "Creating and maintaining new energy resources",
+      "c": "Practising kindness and compassion towards all",
+      "d": "Being in nature"
+    },
+    "answer": "c"
+  },
+  {
+    "_id": "45",
+    "question": "The spiritual curriculum is designed to",
+    "options": {
+      "a": "Develop a strong ethical foundation",
+      "b": "Learn meditation",
+      "c": "Help students get along with others",
+      "d": "All the options"
+    },
+    "answer": "d"
+  },
+  {
+    "_id": "46",
+    "question": "The benefit of meditation for the body is to",
+    "options": {
+      "a": "Increase the heart rate",
+      "b": "Reduce stress related illnesses",
+      "c": "Increase the blood pressure",
+      "d": "Decrease your immune response"
+    },
+    "answer": "b"
+  },
+  {
+    "_id": "47",
+    "question": "The Light and Sound of God",
+    "options": {
+      "a": "Can be contacted through meditation",
+      "b": "Are two principles that emanated at the time of creation",
+      "c": "Help us have a connection with the Divine",
+      "d": "All the options"
+    },
+    "answer": "d"
+  },
+  {
+    "_id": "48",
+    "question": "Which of the following factors are not followed on the path of spirituality?",
+    "options": {
+      "a": "Unity of human beings",
+      "b": "Connection of the soul with God",
+      "c": "Culture-specific practices",
+      "d": "Love for all"
+    },
+    "answer": "c"
+  },
+  {
+    "_id": "49",
+    "question": "The great artist, Leonardo da Vinci",
+    "options": {
+      "a": "Was a non-vegetarian",
+      "b": "Loved to keep birds in cages",
+      "c": "Lacked compassion",
+      "d": "Would buy birds to set them free"
+    },
+    "answer": "d"
+  },
+  {
+    "_id": "50",
+    "question": "To produce 1 kg of beef it takes",
+    "options": {
+      "a": "9000 litres of water",
+      "b": "1500 litres of water",
+      "c": "15500 litres of water",
+      "d": "100000 litres of water"
+    },
+    "answer": "c"
+  },
+  {
+    "_id": "51",
+    "question": "In Level 0 to 2 students learn",
+    "options": {
+      "a": "How to get along with each other",
+      "b": "To take care of the earth",
+      "c": "Good health habits",
+      "d": "All the options"
+    },
+    "answer": "d"
+  },
+  {
+    "_id": "52",
+    "question": "In the lesson “God Made Families” students learn",
+    "options": {
+      "a": "How we need our family",
+      "b": "The importance of appreciating our family members",
+      "c": "That there are different types of families",
+      "d": "All the options"
+    },
+    "answer": "d"
+  },
+  {
+    "_id": "53",
+    "question": "Students learn the topics in the Spiritual Curriculum through",
+    "options": {
+      "a": "Games",
+      "b": "Art and Crafts",
+      "c": "Music and role playing",
+      "d": "All the options"
+    },
+    "answer": "d"
+  },
+
+  {
+    "_id": "1",
+    "question": "The soul is",
+    "options": {
+      "a": "In all living creatures",
+      "b": "Only in plants",
+      "c": "Only in animals",
+      "d": "Only in humans"
+    },
+    "answer": "a"
+  },
+  {
+    "_id": "2",
+    "question": "To practise spirituality, we need to",
+    "options": {
+      "a": "Change our religion",
+      "b": "Meditate",
+      "c": "Go to remote place",
+      "d": "Leave our studies or job"
+    },
+    "answer": "b"
+  },
+  {
+    "_id": "3",
+    "question": "Spirituality deals with",
+    "options": {
+      "a": "Becoming a better person",
+      "b": "Learning about meditation",
+      "c": "Inculcating love for all",
+      "d": "All the options"
+    },
+    "answer": "d"
+  },
+  {
+    "_id": "4",
+    "question": "Attaining world peace is a natural by-product of our",
+    "options": {
+      "a": "Physical Development",
+      "b": "Intellectual Development",
+      "c": "Emotional Development",
+      "d": "Spiritual Development"
+    },
+    "answer": "d"
+  },
+  {
+    "_id": "5",
+    "question": "Spiritual Education leads to",
+    "options": {
+      "a": "Helping others",
+      "b": "Being concerned about the welfare of our planet",
+      "c": "Having love and compassion",
+      "d": "All the options"
+    },
+    "answer": "d"
+  },
+  {
+    "_id": "6",
+    "question": "Meditation helps you to",
+    "options": {
+      "a": "Discover your purpose and fulfilment in your life",
+      "b": "Grow in wisdom by deepening your understanding",
+      "c": "Awaken Spiritually",
+      "d": "Experience the inner and outer peace of connecting with your joy within",
+      "e": "All the options"
+    },
+    "answer": "e"
+  },
+  {
+    "_id": "7",
+    "question": "The benefits of meditation include",
+    "options": {
+      "a": "Inner tranquillity and joy",
+      "b": "When you feel happier, you are more balanced",
+      "c": "Positive effect on producing relaxation",
+      "d": "Improved attention level",
+      "e": "All the options"
+    },
+    "answer": "e"
+  },
+  {
+    "_id": "8",
+    "question": "Spiritual consciousness is",
+    "options": {
+      "a": "Experiencing ourselves as soul",
+      "b": "Connecting with God",
+      "c": "Realizing that soul is a part of God",
+      "d": "All the options"
+    },
+    "answer": "d"
+  },
+  {
+    "_id": "9",
+    "question": "To attain spiritual consciousness",
+    "options": {
+      "a": "One has to physically die",
+      "b": "One has to go to outer space",
+      "c": "One has to look inside",
+      "d": "One has to go to caves"
+    },
+    "answer": "c"
+  },
+  {
+    "_id": "10",
+    "question": "When we attain spiritual consciousness , life goes smoothly because",
+    "options": {
+      "a": "No difficulties come our way",
+      "b": "People start respecting us",
+      "c": "We get lot of money",
+      "d": "We get to a state of fulfilment"
+    },
+    "answer": "d"
+  },
+  {
+    "_id": "11",
+    "question": "When we experience God’s love inside us , it brings in us",
+    "options": {
+      "a": "Love for our own family only",
+      "b": "Love for our country only",
+      "c": "Love for our society only",
+      "d": "Love for the entire Universe"
+    },
+    "answer": "d"
+  },
+  {
+    "_id": "12",
+    "question": "To get attuned to the channel of God, we need",
+    "options": {
+      "a": "A remote control",
+      "b": "To focus attention away from the world outside",
+      "c": "To go to some place of higher altitude",
+      "d": "To follow rites and rituals"
+    },
+    "answer": "b"
+  },
+  {
+    "_id": "13",
+    "question": "Which of the following is our birthright?",
+    "options": {
+      "a": "To earn name and fame",
+      "b": "To fulfil our worldly wishes",
+      "c": "God-realization and self-realization",
+      "d": "To visit the seven wonders of the world"
+    },
+    "answer": "c"
+  },
+  {
+    "_id": "14",
+    "question": "What do saints and mystics tell us?",
+    "options": {
+      "a": "To focus our attention to God",
+      "b": "To know God",
+      "c": "To develop spiritually",
+      "d": "All the options"
+    },
+    "answer": "d"
+  },
+  {
+    "_id": "15",
+    "question": "What is the true purpose of life?",
+    "options": {
+      "a": "To connect with our soul and find God within",
+      "b": "To win many prizes",
+      "c": "To experience all the pleasures of the material world",
+      "d": "To earn lot of money and spend it lavishly"
+    },
+    "answer": "a"
+  },
+  {
+    "_id": "16",
+    "question": "How should we balance our spiritual lives while living a regular life?",
+    "options": {
+      "a": "Leave everything and go to the mountains",
+      "b": "Fulfill our worldly duties and ignore spiritually",
+      "c": "Cut off relations with the family",
+      "d": "Strike a balance between spiritual and worldly pursuits"
+    },
+    "answer": "d"
+  },
+  {
+    "_id": "17",
+    "question": "For the world to become peaceful, first of all",
+    "options": {
+      "a": "We need to become peaceful ourselves",
+      "b": "We need to make our neighbours peaceful",
+      "c": "We need to make our country peaceful",
+      "d": "We need to make our continent peaceful"
+    },
+    "answer": "a"
+  },
+  {
+    "_id": "18",
+    "question": "We can experience our soul through",
+    "options": {
+      "a": "Reasoning",
+      "b": "Inferences",
+      "c": "Analysis",
+      "d": "Meditation"
+    },
+    "answer": "d"
+  },
+  {
+    "_id": "19",
+    "question": "Meditation helps us to realize",
+    "options": {
+      "a": "Ourselves",
+      "b": "God",
+      "c": "That the same Light is shining in others",
+      "d": "All the options"
+    },
+    "answer": "d"
+  },
+  {
+    "_id": "20",
+    "question": "Vegetarianism supports  a spiritual path",
+    "options": {
+      "a": "It leads to less suffering",
+      "b": "No animal is killed",
+      "c": "Results in calmness",
+      "d": "All the options"
+    },
+    "answer": "d"
+  },
+  {
+    "_id": "21",
+    "question": "We can adopt a vegetarian life style as",
+    "options": {
+      "a": "Research has proven that it is good for our physical health",
+      "b": "It makes us more powerful",
+      "c": "Nonviolence and vegetarianism go hand in hand",
+      "d": "All the options"
+    },
+    "answer": "d"
+  },
+  {
+    "_id": "22",
+    "question": "Vegetarian diet can increase the health of",
+    "options": {
+      "a": "Our body",
+      "b": "Our mind",
+      "c": "Our soul",
+      "d": "All the options"
+    },
+    "answer": "d"
+  },
+  {
+    "_id": "23",
+    "question": "Those who eat meat, ingest",
+    "options": {
+      "a": "Flesh",
+      "b": "Stress hormones that are released due to animal’s fear",
+      "c": "Both flesh and stress hormones",
+      "d": "None of the above"
+    },
+    "answer": "c"
+  },
+  {
+    "_id": "24",
+    "question": "Vegetarianism increases the ecological health of our planet as",
+    "options": {
+      "a": "It leads to plantation of more trees",
+      "b": "It helps to conserve resources of our planet",
+      "c": "It reduces erosion",
+      "d": "None of the above"
+    },
+    "answer": "b"
+  },
+  {
+    "_id": "25",
+    "question": "Research has proved that plant-based eating is a way to reduce the risk of ",
+    "options": {
+      "a": "Heart disease",
+      "b": "Chronic Illness",
+      "c": "Type 2 Diabetes",
+      "d": "All the options"
+    },
+    "answer": "d"
+  },
+  {
+    "_id": "26",
+    "question": "In Darshan Academy, meditation is scheduled every day at",
+    "options": {
+      "a": "The beginning of the day",
+      "b": "The closing of the day",
+      "c": "Lunch break",
+      "d": "Varied times of the day"
+    },
+    "answer": "a"
+  },
+  {
+    "_id": "27",
+    "question": "Children feeling comfortable in the class and have a family feeling is a focus of the spiritual curriculum topic.",
+    "options": {
+      "a": "Taking care of our body,mind and soul",
+      "b": "God is love",
+      "c": "Getting to know you  and building  a sense of community",
+      "d": "Selfless  service"
+    },
+    "answer": "c"
+  },
+  {
+    "_id": "28",
+    "question": "The lesson “Social Behaviour: Manners” focuses on",
+    "options": {
+      "a": "How to treat animals and people with kindness",
+      "b": "How to greet visitors",
+      "c": "How to use polite words",
+      "d": "All the options"
+    },
+    "answer": "d"
+  },
+  {
+    "_id": "29",
+    "question": "The lesson “God is love” covers",
+    "options": {
+      "a": "God created us and the world",
+      "b": "The way back to God is through love",
+      "c": "God is happy when we love others",
+      "d": "All the options"
+    },
+    "answer": "d"
+  },
+  {
+    "_id": "30",
+    "question": "A cultural program as a component of the Spiritual Curriculum gives the children an opportunity to",
+    "options": {
+      "a": "Work together to achieve a common goal",
+      "b": "Use their dramatic,artistic and musical skills to express spiritual values",
+      "c": "Both a and b",
+      "d": "None of the above"
+    },
+    "answer": "c"
+  },
+  {
+    "_id": "31",
+    "question": "To inculcate nonviolence through the Spiritual Curriculum,children are taught to ",
+    "options": {
+      "a": "Understanding the need to get along",
+      "b": "How to make their needs known in an non-agressive way",
+      "c": "Play by the rules",
+      "d": "All the options"
+    },
+    "answer": "d"
+  },
+  {
+    "_id": "32",
+    "question": "Living a spiritual life in the modern world means",
+    "options": {
+      "a": "Leaving the society",
+      "b": "Getting rid of worldly duties and responsibilities ",
+      "c": "Finding a balance between our spiritual and worldly life",
+      "d": "Sitting at home doing nothing"
+    },
+    "answer": "c"
+  },
+  {
+    "_id": "33",
+    "question": "The topic “The Role of a Spiritual Master” introduces students to the help  provided by the Spiritual Master in",
+    "options": {
+      "a": "Teaching us how to meditate",
+      "b": "Teaching us how to lead a good life",
+      "c": "Guiding us with our questions and problems",
+      "d": "All the options"
+    },
+    "answer": "d"
+  },
+  {
+    "_id": "34",
+    "question": "The symbol used to show the balance between our spiritual and worldly life is",
+    "options": {
+      "a": "Pigeon",
+      "b": "Heart",
+      "c": "Lotus flower",
+      "d": "Hands"
+    },
+    "answer": "c"
+  },
+  {
+    "_id": "35",
+    "question": "Important skills taught in “Conflict Resolution” zare",
+    "options": {
+      "a": "Tolerance",
+      "b": "Being able to see other people’s point of view",
+      "c": "Communication skills",
+      "d": "All the options"
+    },
+    "answer": "c"
+  },
+  {
+    "_id": "36",
+    "question": "The purpose of introspection is to",
+    "options": {
+      "a": "Have a record of how many times we were good to others",
+      "b": "Feeling bad about ourselves for our wrong behaviour",
+      "c": "Recognising our failures in behaviour so that we can weed them out",
+      "d": "Get analysed by someone else"
+    },
+    "answer": "c"
+  },
+  {
+    "_id": "37",
+    "question": "On a particular day, I had clashes for 5 times with different persons. I reacted softly for 2 times and 3 times I shouted and got angry.What number would I fill  in the relevant column of the journal?",
+    "options": {
+      "a": "(5)",
+      "b": "(2)",
+      "c": "(3)",
+      "d": "Zero, as the other person provoked me"
+    },
+    "answer": "c"
+  },
+  {
+    "_id": "38",
+    "question": "“Not having thoughts of hurting others” comes under the virtue of ",
+    "options": {
+      "a": "Nonviolence",
+      "b": "Truthfulness",
+      "c": "Humility",
+      "d": "Purity"
+    },
+    "answer": "a"
+  },
+  {
+    "_id": "39",
+    "question": "Which situation is a failure of honesty?",
+    "options": {
+      "a": "Refusing to help a family member",
+      "b": "Feeling proud about a new gadget",
+      "c": "Shouting at your brother",
+      "d": "Cheating in an exam"
+    },
+    "answer": "d"
+  },
+  {
+    "_id": "40",
+    "question": "If a child does not feel welcomed  in a classroom, the result may be :",
+    "options": {
+      "a": "Feeling of stress",
+      "b": "Fear of participation/Making mistakes",
+      "c": "Feeling unsafe or not accepted",
+      "d": "All the options"
+    },
+    "answer": "d"
+  },
+  {
+    "_id": "41",
+    "question": "Welcoming,smiling and greeting  each student as they enter the classroom can:",
+    "options": {
+      "a": "Decrease stress",
+      "b": "Create a welcoming environment",
+      "c": "Facilitate communication",
+      "d": "All the options"
+    },
+    "answer": "d"
+  },
+  {
+    "_id": "42",
+    "question": "It is difficult for learning to occur if student feels:",
+    "options": {
+      "a": "Unwelcomed",
+      "b": "Unsafe",
+      "c": "Not accepted by peers or teachers",
+      "d": "Afraid of making mistakes",
+      "e": "All the options"
+    },
+    "answer": "e"
+  },
+  {
+    "_id": "43",
+    "question": "Teacher behaviours have a direct correlation on A.Student Achievement  and B. motivation.Which of the following have no direct effects  on these two critical aspects of education?",
+    "options": {
+      "a": "Teacher enthusiasm",
+      "b": "Teacher expectations",
+      "c": "Facial expressions",
+      "d": "Teachers’ voice,volume/pitch",
+      "e": "Teachers’ country of residence"
+    },
+    "answer": "e"
+  }
+]

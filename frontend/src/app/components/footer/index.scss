@@ -1,0 +1,48 @@
+.footer-css{
+  font-family: 'Rubik';
+  width: 1366px;
+  height: 100px;
+  background-color: #ffffff;
+  display: grid;
+  grid-template-columns: 683px 683px;
+  grid-auto-rows:max-content;
+  grid-gap: 5px;
+
+}
+
+.grid-logo{
+  display: grid;
+  grid-template-columns: 23% 77%;
+  grid-auto-rows:max-content;
+  grid-gap: 0px;
+}
+
+.grid-text{
+  display: grid;
+  grid-template-columns: 25% 25% 50%;
+  grid-auto-rows:max-content;
+  grid-gap: 0px;
+  margin: 52px 0px 0px 51px;
+}
+
+.grid-2{
+  display: grid;
+  color: #777676;
+}
+
+.grid-4{
+  display: grid;
+  color: #777676;
+}
+
+.logo-text{
+  font-Size: '10px';
+  color: #777676;
+  margin: 52px 0px 0px 0px;
+}
+
+.img-logo{
+  width: 100px;
+  height: 100px;
+  margin: 0px 0px 0px 58px;
+}

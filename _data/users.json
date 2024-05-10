@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Sushil Bhutani",
+    "email": "sushil.bhutani@gmail.com",
+    "role": "user",
+    "password": "sushil_admin",
+    "contact": 999999999,
+    "gender":"M",
+    "school":"Darshan Academy, HQ",
+    "designation":"STTC Reviewer"
+  },
+  {
+    "name": "Preety Kochar",
+    "email": "preety.kochhar@gmail.com",
+    "role": "user",
+    "password": "preety_admin",
+    "contact": 999999999,
+    "gender":"F",
+    "school":"Darshan Academy, HQ",
+    "designation":"STTC Reviewer"
+  },
+  {
+    "name": "Poonam Ghai",
+    "email": "poonamghai12@gmail.com",
+    "role": "user",
+    "password": "poonam_admin",
+    "contact": 999999999,
+    "gender":"F",
+    "school":"Darshan Academy, HQ",
+    "designation":"STTC Reviewer"
+  },
+  {
+    "name": "Isabel Wolf",
+    "email": "iwolf@sos.org",
+    "role": "user",
+    "password": "isabel_admin",
+    "contact": 999999999,
+    "gender":"F",
+    "school":"Darshan Academy, HQ",
+    "designation":"STTC Reviewer"
+  },
+  {
+    "name": "Usha Udaar",
+    "email": "ushaudaar@gmail.com",
+    "role": "user",
+    "password": "usha_admin",
+    "contact": 999999999,
+    "gender":"F",
+    "school":"Darshan Academy, HQ",
+    "designation":"STTC Reviewer"
+  },
+  {
+    "name": "Susan Gallagher",
+    "email": "gallagher.susan@gmail.com",
+    "role": "user",
+    "password": "gallagher_admin",
+    "contact": 999999999,
+    "gender":"F",
+    "school":"Darshan Academy, HQ",
+    "designation":"STTC Reviewer"
+  },
+  {
+    "name": "Nakkashi Naghpal",
+    "email": "nakkashinaghal@gmail.com",
+    "role": "user",
+    "password": "nakkashi_admin",
+    "contact": 999999999,
+    "gender":"F",
+    "school":"Darshan Academy, HQ",
+    "designation":"STTC Reviewer"
+  }
+]

@@ -1,0 +1,415 @@
+/* Maquetacion */
+
+section#logo {
+  align-content: center;
+  width: 100%;
+  height: 100%;
+
+}
+
+section#home {
+  padding: 20px 0px 0px 0px;
+}
+
+section#course {
+  padding: 20px 0px 0px 0px;
+}
+
+img#imgProgress {
+
+  display: none;
+
+}
+
+section#sProgress {
+  padding: 20px 0px 0px 0px;
+  display: grid;
+  grid-template-columns: 1% 15% 70%;
+  grid-gap: 0px;
+  columns: 3;
+}
+
+canvas#iProgress {
+  margin: -5px 0px 0px -5px;
+  display: inline;
+}
+
+canvas#iName {
+
+  display: inline;
+}
+
+section#sName {
+  padding: 20px 0px 0px 0px;
+  display: grid;
+  grid-template-columns: 10% 80%;
+  grid-gap: 0px;
+  columns: 2;
+}
+
+main {
+  width: 100%;
+  height: 68%;
+  background: #f7f7f5;
+
+  display: grid;
+  grid-template-columns: 50% 50%;
+  grid-auto-rows: max-content;
+  grid-gap: 5px;
+
+}
+
+/* Styling Profile Picture Article*/
+img#imgProfile {
+
+  display: none;
+
+}
+
+canvas#pPicture {
+  padding: 5% 0% 0% 0%;
+  display: inline;
+}
+
+canvas#rectPicture {
+  margin: 110% 0% 0% 130%;
+  display: inline;
+  border-radius: 100px;
+}
+
+canvas#photoP {
+  margin: -290% 0% 0% 170%;
+  display: inline;
+  border-radius: 100px;
+
+}
+
+h5#pData {
+  grid-column: 1 / span 2;
+  padding: 10px 0px 0px 50px;
+}
+
+article#profilePic {
+  margin: 30px 0px 0px 20px;
+  padding: 0px 0px 0px 0px;
+  width: 96%;
+  height: 70%;
+  grid-row: 1 / 3;
+  background: #d0f1fc;
+  display: grid;
+  grid-template-columns: 10% 110%;
+  grid-auto-rows: max-content;
+  grid-gap: 5px;
+}
+
+/* Styling Extra Data Profile Article*/
+article#profileData {
+  margin: -88px 0px 0px 20px;
+  padding: 0px 0px 0px 50px;
+  width: 86%;
+  height: 280%;
+  background: #ffffff;
+  display: grid;
+  grid-template-columns: 15% 85%;
+  grid-auto-rows: max-content;
+  grid-gap: 0px;
+  columns: 2;
+}
+
+/* Styling Achivement Article*/
+article#achivement {
+  margin: 30px 20px 0px 0px;
+  width: 95%;
+  height: 70%;
+  background: #d0f1fc;
+  display: grid;
+  grid-template-rows: 20% 20% 33%;
+  grid-template-columns: 8% 85%;
+  grid-gap: 0px;
+}
+
+canvas#wAchivement {
+  margin: 20px 0px 0px 73px;
+  display: block;
+  border-radius: 100px;
+}
+
+canvas#bAchivement {
+  margin: 20px 0px 0px 0px;
+  display: block;
+  border-radius: 100px;
+}
+
+h6#aText {
+  display: block;
+  margin: 20px 0px 0px 40px;
+  grid-column: 1 / span 2;
+}
+
+h6#aProgress {
+  display: block;
+  margin: 10px 0px 0px 400px;
+  grid-column: 1 / span 2;
+}
+
+/* Styling Modules Article*/
+article#modules {
+  margin: -3% 0% 13% 0%;
+  padding: 3% 0% 0% 7%;
+  width: 88%;
+  height: 73%;
+  background: #ffffff;
+  grid-template-rows: 33% 33% 33%;
+  grid-template-columns: 12.5% 12.5% 12.5% 12.5% 12.5% 12.5% 12.5% 12.5%;
+  grid-gap: 30px;
+}
+
+h6#moduleText {
+  display: block;
+  margin: 0px 0px 10px 0px;
+  grid-column: 1 / span 2;
+}
+
+img#imgCheck {
+
+  display: none;
+
+}
+
+img#imgLock {
+
+  display: none;
+
+}
+
+article#remaining {
+  width: 95%;
+  background: #ffffff;
+}
+
+/*Pie de pagina*/
+.statusbg {
+  background-color: #ffffff;
+  width: 200px;
+  height: 200px;
+}
+
+.faCheck {
+  width: 40px;
+  height: 40px;
+  background-color: yellow;
+  margin: 5px;
+  text-align: center;
+}
+
+.parentModule {
+  height: 350px;
+  width: 100%;
+  display: flex;
+  padding: 5px;
+  margin: 5px;
+  background-color: white;
+  flex-wrap: wrap;
+}
+
+.profileParent {
+  margin-top: 100px;
+  width: 100%;
+  height: 30%;
+  background-color: #beebfa;
+  padding: 15px;
+  text-align: right;
+
+}
+
+#myProgress {
+  width: 100%;
+  background-color: white;
+  border-radius: 20px;
+  margin-top: 10px;
+}
+
+#progressBar {
+  width: 1%;
+  height: 20px;
+  background-color: #87ddf9;
+  border-radius: 20px;
+}
+
+#daysLeft {
+  width: 100%;
+  background-color: white;
+  border-radius: 20px;
+  margin-top: 10px;
+}
+
+#daysLeftBar {
+  width: 1%;
+  height: 20px;
+  background-color: #87ddf9;
+  border-radius: 20px;
+}
+
+.statusSection {
+  height: 700px;
+  background-color: #d0f1fc;
+  display: flex;
+}
+
+.info {
+
+  padding: 20px;
+  width: 50%;
+  height: 80%;
+}
+
+.Parent-parenttmodule {
+  margin: 0;
+}
+
+.imgSize {
+  vertical-align: middle;
+  text-align: center;
+}
+
+.ParentOfTwo {
+
+  width: 50%;
+}
+
+.Moduletag {
+  color: #18aad6;
+  font-size: 20px;
+  width: 100%;
+  padding: 5px;
+
+}
+
+.Achievement {
+  text-align: left;
+  font-size: 20px;
+  width: 100%;
+  margin-top: 5%;
+  color: #18aad6;
+  margin-bottom: 5%;
+}
+
+#Name {
+  width: 70%;
+  height: 40%;
+  background-color: #18aad6;
+  border-radius: 100px;
+  text-align: center;
+  padding: 10%;
+  margin-top: 20%;
+  margin-left: 10%;
+}
+
+.username {
+  color: white;
+  font-size: 40px;
+}
+
+.designation {
+  color: yellow;
+  font-size: 20px;
+}
+
+.NameCircle {
+  width: 300px;
+  height: 100px;
+  background-color: #18aad6;
+  border-radius: 100px;
+}
+
+.UserDetails {
+  color: #18aad6;
+  font-size: 20px;
+}
+
+.ParentDetails {
+  text-align: left;
+  // padding:20px;
+  margin-left: 10%;
+}
+
+.GreySectionDetails {
+  background-color: #f6f6f5;
+  width: 100%;
+  height: 50%;
+  display: flex;
+}
+
+.RemainingTime {
+  background-color: white;
+  width: 50%;
+  padding-top: 30px;
+  padding-left: 5px;
+}
+
+.GreyUserDetails {
+  // text-align:center;
+  padding: 30px;
+  width: 50%;
+  // margin:10%;
+}
+
+.imgSizeDetails {
+  width: 50px;
+  height: 50px;
+  margin-left: 10%;
+}
+
+.email {
+  display: flex;
+  align-items: center;
+  margin-left: 20%;
+}
+
+.UserDetailsSchool {
+  color: #18aad6;
+  font-size: 20px;
+  margin-left: 20%;
+
+}
+
+.detail {
+  border-bottom: 1px solid rgba(0, 0, 0, 0.13);
+  padding: 10px;
+  font-size: 20px;
+}
+
+.user-progress {
+  padding: 20px 40px 40px 40px;
+  border-bottom: 1px solid #fbfcfc;
+  color: #ffffff;
+  font-size: 20px;
+}
+
+.module-container {
+  display: flex;
+  flex-flow: row;
+  justify-content: space-around;
+  padding: 0;
+  margin: 0;
+}
+
+.module-box-size {
+  padding: 5px;
+}
+
+.profile-image {
+  width: 18%;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+.profile-block{
+  width: 300px;
+  background-color: #34b2e6;
+  padding: 30px;
+  border-radius: 100px;
+  margin: 0 auto;
+  text-align: center
+}

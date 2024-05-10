@@ -1,0 +1,2 @@
+export const DISABLE_HEADER = 'DISABLE_HEADER';
+export const DISABLE_FOOTER = 'DISABLE_FOOTER';
